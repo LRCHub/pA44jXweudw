@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "EXCITE",
+  "base_artist": "三浦大知",
+  "createdAt": "2025-12-01T15:09:23.720088Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "You Excite Me",
+      "artist": "Al B. Sure!",
+      "has_synced": false,
+      "path": "select/01_You_Excite_Me_Al_B._Sure!.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Excite Me",
+      "artist": "Ayesha Erotica",
+      "has_synced": false,
+      "path": "select/02_Excite_Me_Ayesha_Erotica.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "EXCITE",
+      "artist": "Daichi Miura",
+      "has_synced": true,
+      "path": "select/03_EXCITE_Daichi_Miura.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Excite Dyke",
+      "artist": "I Set My Friends On Fire",
+      "has_synced": true,
+      "path": "select/04_Excite_Dyke_I_Set_My_Friends_On_Fire.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "You Excite Me",
+      "artist": "Frankie Avalon",
+      "has_synced": false,
+      "path": "select/05_You_Excite_Me_Frankie_Avalon.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Excite Me (feat. Wiz Khalifa)",
+      "artist": "Lil Skies feat. Wiz Khalifa",
+      "has_synced": true,
+      "path": "select/06_Excite_Me_(feat._Wiz_Khalifa)_Lil_Skies_feat._Wiz_Khalifa.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Excite Me (feat. Wiz Khalifa)",
+      "artist": "Lil Skies",
+      "has_synced": true,
+      "path": "select/07_Excite_Me_(feat._Wiz_Khalifa)_Lil_Skies.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Excite Me",
+      "artist": "Only One Felipe feat. 5am",
+      "has_synced": true,
+      "path": "select/08_Excite_Me_Only_One_Felipe_feat._5am.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "EXCITE",
+      "artist": "Daichi Miura",
+      "has_synced": true,
+      "path": "select/09_EXCITE_Daichi_Miura.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Excite Dyke (Original Score)",
+      "artist": "I Set My Friends on Fire",
+      "has_synced": false,
+      "path": "select/10_Excite_Dyke_(Original_Score)_I_Set_My_Friends_on_Fire.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "You Excite Me (Bonus Track)",
+      "artist": "Frankie Avalon",
+      "has_synced": false,
+      "path": "select/11_You_Excite_Me_(Bonus_Track)_Frankie_Avalon.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Excite Dyke",
+      "artist": "I Set My Friends on Fire",
+      "has_synced": true,
+      "path": "select/12_Excite_Dyke_I_Set_My_Friends_on_Fire.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Excite Me",
+      "artist": "Lil Skies",
+      "has_synced": true,
+      "path": "select/13_Excite_Me_Lil_Skies.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Excite Me (feat. Wiz Khalifa)",
+      "artist": "Lil Skies",
+      "has_synced": true,
+      "path": "select/14_Excite_Me_(feat._Wiz_Khalifa)_Lil_Skies.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Excite Me",
+      "artist": "Lil Skies feat. Wiz Khalifa",
+      "has_synced": true,
+      "path": "select/15_Excite_Me_Lil_Skies_feat._Wiz_Khalifa.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "EXCITE(テレビオープニングサイズ)",
+      "artist": "三浦 大知",
+      "has_synced": false,
+      "path": "select/pl_01_EXCITE(テレビオープニングサイズ)_三浦_大知.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "EXCITE",
+      "artist": "三浦 大知",
+      "has_synced": false,
+      "path": "select/pl_02_EXCITE_三浦_大知.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "EXCITE",
+      "artist": "三浦 大知",
+      "has_synced": false,
+      "path": "select/pl_03_EXCITE_三浦_大知.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Exciterd Ruler",
+      "artist": "三浦 大知",
+      "has_synced": false,
+      "path": "select/pl_04_Exciterd_Ruler_三浦_大知.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Exciter!!",
+      "artist": "三浦 大知",
+      "has_synced": false,
+      "path": "select/pl_05_Exciter!!_三浦_大知.txt"
+    }
+  ]
+}
